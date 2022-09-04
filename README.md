@@ -1,4 +1,4 @@
-## Hey there! I'm Raick Miranda, student and experimental guinea pig in the undergraduate Computer Science course. ✨
+## Hey there! I'm Raick Miranda, student and experimental guinea pig in the Computer Science undergraduate course. ✨
 
 <div align="center">
   <a href="https://linktr.ee/raickmiranda">
