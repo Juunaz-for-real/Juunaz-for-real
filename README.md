@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://linktr.ee/raickmiranda">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Juunaz-for-real&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juunaz-for-real&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juunaz-for-real&layout=compact&langs_count=8&theme=github_dark&count_private=true&exclude_repo=Projeto-Zimmie"/>
 </div>
 
 ##
