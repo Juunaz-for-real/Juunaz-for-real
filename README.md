@@ -13,12 +13,12 @@
 <div align="center">
 
   [![GitHub
-  Streak](https://github-readme-streak-stats.herokuapp.com?user=Juunaz-for-real&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  Streak](https://github-readme-streak-stats.herokuapp.com?user=Juunaz-for-real&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://linktr.ee/raickmiranda)
 </div>
 
 ### 🧑🏻‍💻 Technologies I'm currently familiar with
 <br>
-<div align="left">
+<div align="center">
   Languages <img align="center" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> <img align="center"
     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"> OS <img
@@ -32,7 +32,7 @@
 
 ### 📧 Contact
 <br>
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/raickmiranda/" target="_blank"><img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       target="_blank"></a>
