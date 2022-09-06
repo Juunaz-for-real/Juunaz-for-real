@@ -8,7 +8,12 @@
   but with every second that passes I am more delighted and eager to learn. Suddenly a world has opened before me, so
   there are many paths I want to explore, and there is plenty of time for that! I'm currently learning Java and am
   interested in getting deeper into Front-end and Back-end as soon as possible._
-</div>
+  </div>
+  <div align="right">
+  
+  ![](https://komarev.com/ghpvc/?username=Juunaz-for-real&label=Views&color=116262)
+  
+  </div>
 
 <div align="center">
 
