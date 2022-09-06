@@ -14,10 +14,13 @@
 
   [![GitHub
   Streak](https://github-readme-streak-stats.herokuapp.com?user=Juunaz-for-real&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://linktr.ee/raickmiranda)
+  
 </div>
 
 ### 🧑🏻‍💻 Technologies I'm currently familiar with
 <br>
+  <img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juunaz-for-real&langs_count=8&theme=gotham&count_private=true&exclude_repo=Projeto-Zimmie&hide_border=true"/>
+  
 <div align="center">
   Languages <img align="center" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> <img align="center"
@@ -27,6 +30,7 @@
     height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img
     align="center" height="40" width="60"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    
 </div>
 <br>
 
