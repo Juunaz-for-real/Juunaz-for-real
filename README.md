@@ -18,13 +18,13 @@
 <div align="center">
 
   [![GitHub
-  Streak](https://github-readme-streak-stats.herokuapp.com?user=Juunaz-for-real&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://linktr.ee/raickmiranda)
+  Streak](https://github-readme-streak-stats.herokuapp.com?user=Juunaz-for-real&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true&include_orgs=true)](https://linktr.ee/raickmiranda)
   
 </div>
 
 ### 🧑🏻‍💻 Technologies I'm currently familiar with
 <br>
-  <img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juunaz-for-real&langs_count=8&theme=gotham&count_private=true&exclude_repo=Projeto-Zimmie&hide_border=true"/>
+  <img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juunaz-for-real&langs_count=8&theme=gotham&count_private=true&exclude_repo=Projeto-Zimmie&hide_border=true&count_private=true&include_orgs=true"/>
   
 <div align="center">
   Languages <img align="center" height="30" width="40"
