@@ -5,12 +5,12 @@
        src="https://i.imgur.com/TwfLHSm.png">
 
   > _My friends usually call me **Juunaz** (he/him), I am Brazilian and I'm already living my 21st winter. I got involved with technology 
-  in the beginning of this decade and I'm studying Computer Science since then (1/4 year), currently eager to learn more things and find out 
+  in the beginning of this decade and I'm studying Computer Science since then (1/4 years), currently eager to learn more things and find out 
   in which area my heart belongs. I'm just starting out, so please bear with me and don't hesitate to pull my ear when needed. Explore 
   my github as much as you need, I've done my best to make all the repositories intuitive and organized (of course, don't forget to visit my 
   student projects [organization](https://github.com/Juunaz-Learning-Projects)), see you around!_
 </div>
-<img height="5px" width="75%" border="0" alt="animated-line-image-0168"
+<img height="5px" width="70%" border="0" alt="animated-line-image-0168"
      src="https://www.animatedimages.org/data/media/562/animated-line-image-0031.gif" />
   
 ## 🧑🏻‍💻 Technologies I'm currently familiar with
