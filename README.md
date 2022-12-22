@@ -35,7 +35,9 @@
   <img align="center" height="30" width="30" 
        src="https://www.iconsdb.com/icons/preview/white/github-10-xxl.png" /> • 
   <img align="center" height="30" width="30" 
-       src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original.svg" />
+       src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original.svg" /> • 
+  <img align="center" height="30" width="30" 
+       src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" />
     
   `OS` 
   <img align="center" height="30" width="40"
