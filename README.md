@@ -50,7 +50,7 @@
   <div align="center">
   <br>
   
-  | <img width="300" src="https://github-readme-streak-stats.herokuapp.com?user=Juunaz-for-real&date_format=M%20j%5B%2C%20Y%5D&theme=dracula#gh-dark-mode-only"/> | <img width="415" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juunaz-for-real&theme=dracula"/> |
+  | <img width="300" src="https://github-readme-streak-stats.herokuapp.com?user=Juunaz-for-real&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&theme=dracula#gh-dark-mode-only"/> | <img width="415" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juunaz-for-real&theme=dracula"/> |
 | :-: | :-: |
   <br>
   <a href="https://instagram.com/raickmiranda" target="_blank"><img
